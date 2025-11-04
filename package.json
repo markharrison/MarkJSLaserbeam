@@ -1,0 +1,26 @@
+{
+  "name": "@markharrison/markjslaserbeam",
+  "version": "1.0.0",
+  "description": "A reusable ui system for laserbeam effects.",
+  "main": "markjslaserbeam.js",
+  "exports": {
+    ".": "./markjslaserbeam.js",
+    "./markjslaserbeam": "./markjslaserbeam.js"
+  },
+  "files": [
+    "markjslaserbeam.js",
+    "markjslaserbeam.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markharrison/MarkJSLaserbeam.git"
+  },
+  "author": "Mark Harrison",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  }
+}

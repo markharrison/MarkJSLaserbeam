@@ -1,6 +1,6 @@
 {
   "name": "@markharrison/markjslaserbeam",
-  "version": "1.0.0",
+  "version": "1.20251104.1",
   "description": "A reusable ui system for laserbeam effects.",
   "main": "markjslaserbeam.js",
   "exports": {
